@@ -1,0 +1,32 @@
+body {
+  background-color: beige;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+div {
+background-color: beige;
+}
+.white-text {
+  color: green;
+}
+#gray-text {
+  color: gray;
+}
+#navbar li{
+  list-style-type: none;
+   display: inline-block;
+}
+#navbar li a{
+  display: block;
+  width: 120px;
+  text-align: center;
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+#navbar {
+  width: 100%;
+  background-color: darkslategray;
+}
+#navbar li a:hover{
+  background-color: black;
+}
